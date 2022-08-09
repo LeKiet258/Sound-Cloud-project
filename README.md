@@ -6,7 +6,7 @@ Thu nhập các thông tin từ trang https://soundcloud.com/ bằng cách parse
 
 # Phân tích dữ liệu
 ## Tiền xử lý dữ liệu
-- Dữ liệu có bao nhiêu dòng và bao nhiêu cột?
+• Dữ liệu có bao nhiêu dòng và bao nhiêu cột?
 • Dữ liệu có các dòng bị lặp không?
 • Mỗi cột có ý nghĩa gì?
 • Mỗi cột hiện đang có kiểu dữ liệu gì? Có cột nào có kiểu dữ liệu chưa phù hợp để có thể xử lý tiếp không?
