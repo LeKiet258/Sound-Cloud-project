@@ -6,16 +6,16 @@ Thu nhập các thông tin từ trang https://soundcloud.com/ bằng cách parse
 
 # Phân tích dữ liệu
 ## Tiền xử lý dữ liệu
-• Dữ liệu có bao nhiêu dòng và bao nhiêu cột?
-• Dữ liệu có các dòng bị lặp không?
-• Mỗi cột có ý nghĩa gì?
-• Mỗi cột hiện đang có kiểu dữ liệu gì? Có cột nào có kiểu dữ liệu chưa phù hợp để có thể xử lý tiếp không?
-• Với mỗi cột có kiểu dữ liệu dạng số (numerical), các giá trị được phân bố như thế nào?
-• Số-lượng/tỉ-lệ các giá trị thiếu?
-• Min? max? → Có gì bất thường không?
-• Với mỗi cột có kiểu dữ liệu dạng phân loại (categorical), các giá trị được phân bố như thế nào?
-• Số-lượng/tỉ-lệ các giá trị thiếu?
-• Số lượng các giá trị khác nhau? Show một vài giá trị → Có gì bất thường không?
+- Dữ liệu có bao nhiêu dòng và bao nhiêu cột?
+- Dữ liệu có các dòng bị lặp không?
+- Mỗi cột có ý nghĩa gì?
+- Mỗi cột hiện đang có kiểu dữ liệu gì? Có cột nào có kiểu dữ liệu chưa phù hợp để có thể xử lý tiếp không?
+- Với mỗi cột có kiểu dữ liệu dạng số (numerical), các giá trị được phân bố như thế nào?
+- Số-lượng/tỉ-lệ các giá trị thiếu?
+- Min? max? → Có gì bất thường không?
+- Với mỗi cột có kiểu dữ liệu dạng phân loại (categorical), các giá trị được phân bố như thế nào?
+- Số-lượng/tỉ-lệ các giá trị thiếu?
+- Số lượng các giá trị khác nhau? Show một vài giá trị → Có gì bất thường không?
 ## Khám phá dữ liệu
 1. Thể loại phổ biến/được yêu thích/được nghe nhiều/được tương tác nhiều nhất trong năm 2020
 2. Thể loại phổ biến nhất tại khu vực châu Âu
